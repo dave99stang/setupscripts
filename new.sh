@@ -1,2 +1,2 @@
 apt update 
-apt upgrade 
+apt upgrade -y
